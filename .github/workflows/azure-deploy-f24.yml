@@ -50,5 +50,5 @@ jobs:
         with:
           app-name: 'nodebb-nour'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_M0F8k1GQAaAWwh9HXBloUB81b3bULYC4sAzCaPop3ww= }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7AF211301DE044BFB796DB4B3F5F0035= }}
           package: .
